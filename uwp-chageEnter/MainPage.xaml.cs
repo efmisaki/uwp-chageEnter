@@ -32,7 +32,7 @@ namespace uwp_chageEnter
         private void textBox_KeyUp(object sender, KeyRoutedEventArgs e)
         {
         
-            if (e.Key == Windows.System.VirtualKey.)
+            if (e.Key == Windows.System.VirtualKey.Enter)
             {
                
                 System.Diagnostics.Debug.WriteLine("OK");
